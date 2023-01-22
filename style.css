@@ -1,0 +1,328 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    position: absolute;
+    width: 1512px;
+    height: 906px;
+    left: 0px;
+    top: 76px;
+
+    background: #CDCDCD;
+}
+
+.con {
+    background: #1E1E1E;
+}
+
+nav {
+    position: absolute;
+    width: 1512px;
+    height: 76px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+
+h1 {
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 21px;
+    top: 24px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.first input {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1226px;
+    height: 65px;
+    left: 29px;
+    top: 104px;
+
+    background: #D9D9D9;
+    border: 1px solid #000000;
+
+}
+
+.first #firstsearch {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 1268px;
+    top: 103px;
+
+    background: #000000;
+}
+
+#firstsearch {
+    position: absolute;
+    width: 79px;
+    height: 29px;
+    left: 1337px;
+    top: 122px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+# fsearch {
+    position: absolute;
+    width: 79px;
+    height: 29px;
+    left: 54px;
+    top: 122px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+
+}
+
+.second #increasing {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 29px;
+    top: 197px;
+    background: #000000;
+
+}
+
+#increasing {
+    position: absolute;
+    width: 109px;
+    height: 29px;
+    left: 83px;
+    top: 216px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+
+}
+
+.second #decreasing {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 276px;
+    top: 197px;
+
+    background: #000000;
+
+}
+
+#decreasing {
+    position: absolute;
+    width: 108px;
+    height: 29px;
+    left: 330px;
+    top: 216px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+.second #marks {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 523px;
+    top: 197px;
+
+    background: #000000;
+
+}
+
+#marks {
+    position: absolute;
+    width: 160px;
+    height: 29px;
+    left: 551px;
+    top: 216px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+.second #passing {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 770px;
+    top: 197px;
+
+    background: #000000;
+
+}
+
+#passing {
+    position: absolute;
+    width: 179px;
+    height: 29px;
+    left: 789px;
+    top: 216px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+.second #classy {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 1017px;
+    top: 197px;
+
+    background: #000000;
+
+}
+
+#classy {
+    position: absolute;
+    width: 153px;
+    height: 29px;
+    left: 1049px;
+    top: 216px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+.second #gender {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 1264px;
+    top: 197px;
+
+    background: #000000;
+}
+
+#gender {
+    position: absolute;
+    width: 175px;
+    height: 29px;
+    left: 1285px;
+    top: 216px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+.third {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1452px;
+    height: 65px;
+    left: 29px;
+    top: 291px;
+
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+.kk{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1452px;
+height: 65px;
+left: 29px;
+top: 291px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+
+}
+.third .tf{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1452px;
+height: 65px;
+left: 29px;
+top: 291px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+  
+}
